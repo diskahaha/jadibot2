@@ -42,18 +42,6 @@ ${readmore}
  • ${prefix}runtime
  • ${prefix}speed
  • ${prefix}owner
- • ${prefix}sc
- • ${prefix}donasi
- • ${prefix}thanksto
- • ${prefix}delete
- • ${prefix}kirim
- • ${prefix}cekprem
- • ${prefix}listprem
- • ${prefix}listban
- • ${prefix}listsewa
- • ${prefix}topbalance
- • ${prefix}login
- • ${prefix}listlogin
 
  *CONVERTER/TOOLS*
  • ${prefix}sticker
@@ -146,10 +134,5 @@ ${readmore}
  • ${prefix}block *nomor*
  • ${prefix}unblock *nomor*
  • ${prefix}sewa *add/del*
- 
- *THANKS TO*
- ➢ Christian ID
- ➢ Nc Tech
- ➢ Irfan / Riyan
 `
 }
